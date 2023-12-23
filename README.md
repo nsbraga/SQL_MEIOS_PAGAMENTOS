@@ -1,6 +1,5 @@
-# SQL_MEIOS_PAGAMENTOS
- Análise de dados com SQL - Meios de Pagamentos
-
+# Storytelling com SQL — Analisando dados de Meios de Pagamentos
+ 
 Objetivo do Projeto 
 
 Uma organização do setor de meios de pagamentos atenta a saúde financeira e a eficiência operacional da sua empresa contatou um dos seus especialistas em análise de dados com o objetivo de realizar uma pesquisa, visando obter uma compreensão mais abrangente da sua carteira de clientes.  
