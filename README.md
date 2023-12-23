@@ -7,7 +7,9 @@ Uma organização do setor de meios de pagamentos atenta a saúde financeira e a
 Como forma de entender essa base, a gerência operacional disponibilizou uma base consolidada de vendas do ano de 2022 dos seus estabelecimentos comerciais com a intenção de responder duas perguntas: 
  
 1. Quais o perfil de cliente que traz mais retorno para a empresa? 
-2. Que tipo de ações a empresa pode fazer para melhorar o take rate destes clientes? 
+2. Que tipo de ações a empresa pode fazer para melhorar o take rate destes clientes?
+
+Utilizei técnicas de análise exploratória nas variáveis que explicam o perfil de clientes desta empresa.
 
 
 Para verificar o artigo completo, pode acessar o link abaixo:
